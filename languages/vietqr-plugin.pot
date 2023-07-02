@@ -1,0 +1,82 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vietqr-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-06 09:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: vietqr-plugin"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:82
+msgid "Account on/off"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:68
+msgid "Authorization code"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:38
+msgid "CONFIG WORDPRESS TO VIETQR CONNECTION"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:78
+msgid "Connect Wordpress with VietQR"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:64
+msgid "Enable QR Code"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:56
+msgid "Enabled/Disabled"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:51
+msgid "English"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:72
+msgid "How to get VietQR authorization code"
+msgstr ""
+
+#. Author of the plugin
+msgid "Khoi Tran"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:47
+msgid "Language"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:76
+msgid "Quick connect Wordpress with VietQR"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:98
+msgid "Transaction prefix"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:58
+msgid "Turn on bank transfer"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:50
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:62
+msgid "VietQR"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "vietqr-plugin"
+msgstr ""

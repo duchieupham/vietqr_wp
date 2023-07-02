@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vietqr-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-06 09:02+0000\n"
+"PO-Revision-Date: 2023-06-06 16:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: vietqr-plugin\n"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:82
+msgid "Account on/off"
+msgstr "Bật/ Tắt Account"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:68
+msgid "Authorization code"
+msgstr "Authorization code"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:38
+msgid "CONFIG WORDPRESS TO VIETQR CONNECTION"
+msgstr "THIẾT LẬP KẾT NỐI WORDPRESS VỚI THANH TOÁN VIETQR"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:78
+msgid "Connect Wordpress with VietQR"
+msgstr "Kết nối WordPress với VietQR"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:64
+msgid "Enable QR Code"
+msgstr "Hiển thị QR Code"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:56
+msgid "Enabled/Disabled"
+msgstr "Bật/ Tắt"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:51
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:72
+msgid "How to get VietQR authorization code"
+msgstr "Hướng dẫn lấy authorization code tại website VietQR"
+
+#. Author of the plugin
+msgid "Khoi Tran"
+msgstr "Khoi Tran"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:47
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:76
+msgid "Quick connect Wordpress with VietQR"
+msgstr "Kết nối WordPress với VietQR nhanh"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:98
+msgid "Transaction prefix"
+msgstr "Tiền tố giao dịch"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:58
+msgid "Turn on bank transfer"
+msgstr "Bật chuyển khoản"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:50
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: inc/classes/VietQR/Admin/VietqrConfig.php:62
+msgid "VietQR"
+msgstr "VietQR"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "vietqr-plugin"
+msgstr "vietqr-plugin"

@@ -1,0 +1,46 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/*VietQR config admin page*/
+.p_vietqr-admin {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.p_vietqr-admin + .contact-info {
+    display: flex;
+    gap: 20px;
+    font-size: 13px;
+    margin: 0;
+    line-height: 1.55;
+    font-style: italic;
+}
+
+.p_vietqr-admin .vietqr-logo {
+    position: relative;
+    width: min(300px, 40%);
+}
+
+.p_vietqr-admin .vietqr-logo img {
+    width: 100%;
+}
+
+/*loading spinner*/
+
+.loading-spinner {
+    width: 14px;
+    height: 14px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    animation: spin 2s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
