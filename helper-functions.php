@@ -59,7 +59,7 @@ function random_char () {
  * @return string
  */
 function convert_timestamp_to_date($timestamp, $format) {
-	$seconds = $timestamp / 1000; // Convert milliseconds to seconds
+	$seconds = intval($timestamp) / 1000; // Convert milliseconds to seconds
 	$dateTime = new DateTime();
 	$dateTime->setTimestamp($seconds);
 	return $dateTime->format($format);
